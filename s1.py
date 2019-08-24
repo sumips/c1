@@ -7,3 +7,4 @@ def stc():
 def cts():
        x=str(input("enter name"))
        print(x)
+       print("hello")
